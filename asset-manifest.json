@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/discord-snowflake-react/static/css/main.c8092789.chunk.css",
+    "main.js": "/discord-snowflake-react/static/js/main.f69c17bd.chunk.js",
+    "main.js.map": "/discord-snowflake-react/static/js/main.f69c17bd.chunk.js.map",
+    "runtime-main.js": "/discord-snowflake-react/static/js/runtime-main.43abde08.js",
+    "runtime-main.js.map": "/discord-snowflake-react/static/js/runtime-main.43abde08.js.map",
+    "static/js/2.85e83e81.chunk.js": "/discord-snowflake-react/static/js/2.85e83e81.chunk.js",
+    "static/js/2.85e83e81.chunk.js.map": "/discord-snowflake-react/static/js/2.85e83e81.chunk.js.map",
+    "index.html": "/discord-snowflake-react/index.html",
+    "static/css/main.c8092789.chunk.css.map": "/discord-snowflake-react/static/css/main.c8092789.chunk.css.map",
+    "static/js/2.85e83e81.chunk.js.LICENSE.txt": "/discord-snowflake-react/static/js/2.85e83e81.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43abde08.js",
+    "static/js/2.85e83e81.chunk.js",
+    "static/css/main.c8092789.chunk.css",
+    "static/js/main.f69c17bd.chunk.js"
+  ]
+}
