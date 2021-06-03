@@ -21,11 +21,24 @@ body{
     margin-left: 10em;
     margin-right: 10em;
     margin-bottom: 5em;
-    padding: 1em;
     border: solid #7289DA 5px;
     background-color:#FFFFFF ;
     color: #23272A;
     font-size: large;
+    padding: 1em;
+    display: flex;
+}
+.idInput{
+    height:100%;
+    width:100%;
+    
+}
+input:focus{
+    outline:none;
+}
+input{
+    border:0;
+    outline-width: 0;
 }
 
 .date{
